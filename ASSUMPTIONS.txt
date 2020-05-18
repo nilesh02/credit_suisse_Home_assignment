@@ -1,0 +1,4 @@
+1) Data is stored and read from file.
+2) File is having text data only and in given format.
+3) If header row is not present then default columns are assumed.
+4) Each new entry of data is present in next line.
